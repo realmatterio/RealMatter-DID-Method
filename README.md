@@ -1,6 +1,6 @@
 ![RealMatter](https://curator.artracx.com/wp-content/uploads/2022/11/RealMatter-Badgets-ea45e0e1.png)
 # RealMatter DID:RM Method
-did : rm : <ledger[1 *]> : <id[40 *]>
+did : rm : < ledger[1 *] > : < id[40 *] >
 
 Technical Paper for W3C DID Registration
 
@@ -41,12 +41,14 @@ This document specifies the “RealMatter” [DID Method](https://w3c.github.io/
 
 RealMatter uses virtualassets.id as the official service website.
 
-**Connecting real assets to virtual identities**
+**Connecting real assets to virtual identities by**
 
-by
 Chip-level Blockchain
+
 Real-world Asset Tokenization
+
 Smart Legal Contracts
+
 Investor Exit Planning
 
 
@@ -55,15 +57,18 @@ Investor Exit Planning
 Investor exit planning is the most important part of Real-world Asset Tokenization
 
 asset tokenization is # NOT nft
+
 asset tokenization is # NOT opensea
+
 asset tokenization is # investment
+
 asset tokenization is # an exit plan
 
 
 **RealMatter Platform**
 
- ![Identity platform](https://curator.artracx.com/wp-content/uploads/2022/11/RealMatter-Badgets-4-1dbc08dc.png) 
- ![Verifiable Credential platform](https://curator.artracx.com/wp-content/uploads/2022/11/RealMatter-Badgets-5-a1562fc0.png) 
+ ![Identity platform](https://curator.artracx.com/wp-content/uploads/2022/12/RealMatter-Badgets-4_resized-07437463.png)
+ ![Verifiable Credential platform](https://curator.artracx.com/wp-content/uploads/2022/12/RealMatter-Badgets-5_resized-6da5f6da.png)
 
 
 ## Conformity

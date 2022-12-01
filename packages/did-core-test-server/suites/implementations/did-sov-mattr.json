@@ -1,0 +1,53 @@
+{
+    "didMethod": "did:sov",
+    "implementation": "MATTR Internal Libraries",
+    "implementer": "MATTR Limited",
+    "supportedContentTypes": ["application/did+ld+json", "application/did+json"],
+    "did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP": {
+        "didDocumentDataModel": {
+            "properties": {
+                "@context": "https://www.w3.org/ns/did/v1",
+                "id": "did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP",
+                "assertionMethod": ["did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW"],
+                "authentication": ["did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW"],
+                "capabilityDelegation": ["did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW"],
+                "capabilityInvocation": ["did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW"],
+                "keyAgreement": [{
+                    "id": "did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#DPVUftknVe",
+                    "type": "X25519KeyAgreementKey2019",
+                    "controller": "did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP",
+                    "publicKeyBase58": "DPVUftknVeH6pndT81shhT1dtqNALTbzk9J3NDZEdZP1"
+                }],
+                "publicKey": [{
+                    "id": "did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW",
+                    "type": "Ed25519VerificationKey2018",
+                    "controller": "did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP",
+                    "publicKeyBase58": "5j8n1udfzW5X6cYnk15pi5e1Xo3sPJd9SVUukvGzVjCq"
+                }]
+            }
+        },
+        "application/did+ld+json": {
+            "didDocumentDataModel": {
+                "representationSpecificEntries": {
+                    "@context": "https://www.w3.org/ns/did/v1"
+                }
+            },
+            "representation": "{\"@context\":\"https://www.w3.org/ns/did/v1\",\"id\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP\",\"assertionMethod\":[\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\"],\"authentication\":[\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\"],\"capabilityDelegation\":[\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\"],\"capabilityInvocation\":[\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\"],\"keyAgreement\":[{\"id\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#DPVUftknVe\",\"type\":\"X25519KeyAgreementKey2019\",\"controller\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP\",\"publicKeyBase58\":\"DPVUftknVeH6pndT81shhT1dtqNALTbzk9J3NDZEdZP1\"}],\"publicKey\":[{\"id\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\",\"type\":\"Ed25519VerificationKey2018\",\"controller\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP\",\"publicKeyBase58\":\"5j8n1udfzW5X6cYnk15pi5e1Xo3sPJd9SVUukvGzVjCq\"}]}",
+            "didDocumentMetadata": {},
+            "didResolutionMetadata": {
+                "contentType": "application/did+ld+json"
+            }
+        },
+        "application/did+json": {
+            "didDocumentDataModel": {
+                "representationSpecificEntries": {}
+            },
+            "representation": "{\"@context\":\"https://www.w3.org/ns/did/v1\",\"id\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP\",\"assertionMethod\":[\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\"],\"authentication\":[\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\"],\"capabilityDelegation\":[\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\"],\"capabilityInvocation\":[\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\"],\"keyAgreement\":[{\"id\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#DPVUftknVe\",\"type\":\"X25519KeyAgreementKey2019\",\"controller\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP\",\"publicKeyBase58\":\"DPVUftknVeH6pndT81shhT1dtqNALTbzk9J3NDZEdZP1\"}],\"publicKey\":[{\"id\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP#5j8n1udfzW\",\"type\":\"Ed25519VerificationKey2018\",\"controller\":\"did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP\",\"publicKeyBase58\":\"5j8n1udfzW5X6cYnk15pi5e1Xo3sPJd9SVUukvGzVjCq\"}]}",
+            "didDocumentMetadata": {},
+            "didResolutionMetadata": {
+                "contentType": "application/did+json"
+            }
+        }
+    },
+    "dids": ["did:sov:mattr-dev:3WhAjtBidfhGbiAyNQBxPP"]
+}

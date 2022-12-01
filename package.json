@@ -1,0 +1,45 @@
+{
+  "name": "root",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "private": true,
+  "description": "Decentralized Identifiers Test Suite",
+  "homepage": "https://github.com/w3c/did-test-suite#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3c/did-test-suite"
+  },
+  "bugs": {
+    "url": "https://github.com/w3c/did-test-suite/issues"
+  },
+  "keywords": [
+    "test",
+    "suite",
+    "w3c"
+  ],
+  "scripts": {
+    "install:ci": "npm install --ignore-scripts && lerna link && lerna bootstrap --since origin/main --include-dependencies",
+    "postinstall": "lerna bootstrap",
+    "prepare": "lerna run prepare",
+    "start": "npm run docker:up",
+    "lint": "lerna run lint --stream",
+    "test": "lerna run test --stream",
+    "docker:up": "docker-compose up",
+    "docker:build": "docker-compose up --build",
+    "generate-test-data": "lerna run generate-test-data --stream",
+    "generate-report": "lerna run generate-report",
+    "test-and-generate-report": "lerna run test-and-generate-report"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

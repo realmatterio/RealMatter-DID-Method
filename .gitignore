@@ -1,0 +1,15 @@
+*.sw[nop]
+*.py[co]
+*~
+.DS_Store
+.project
+.settings
+TAGS
+config.json
+node_modules
+
+.idea
+*.iml
+.vscode
+
+docs/index.html

@@ -4,7 +4,7 @@ did : rm : < ledger[1 *] > : < id[40 *] >
 
 Technical Paper for W3C DID Registration
 
-## Official DID:ART Method in W3C Registry
+## Official DID:RM Method in W3C Registry
 
 Merging into W3C Github DID Test Suite and DID Registry
 

@@ -111,7 +111,7 @@ This generic DID scheme is a URI scheme conformant with [RFC3986](https://www.ie
 
 where 
 
-method-specific-ledger-id refers to [Enecuum](https://enecuum.com/) ENQ pubic blockchain
+method-specific-ledger-id refers to the DLT ledger e.g. [Enecuum](https://enecuum.com/) ENQ pubic blockchain
 
 method-specific-subject-id refers to a string of 40 hexadecimal characters
 

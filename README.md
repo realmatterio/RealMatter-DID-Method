@@ -6,7 +6,11 @@ Technical Paper for W3C DID Registration
 
 ## Official DID:RM Method in W3C Registry
 
-Merging into W3C Github DID Test Suite and DID Registry
+Merged into W3C DID Official Specification Registries
+
+on 25 Jan 2023 
+
+https://www.w3.org/TR/did-spec-registries/#did-methods
 
 ## Real Matter Technology Limited
 [realmatter.io](https://realmatter.io)

@@ -39,35 +39,21 @@ https://www.w3.org/TR/did-spec-registries/#did-methods
 ## About Real Matter
 
 Real Matter Technology Limited, 
-a member of Ideation Program with Hong Kong Science Park, 
-is a FinTech company with the vision to implement Chip-level blockchain identity technology with Smart legal contracts to create Real-world asset tokenization and formulate Investor exit plans.
+is a Fintech company that envisions implementing chip-level blockchain identity technology and smart contract-on-chip credentials to facilitate real-world asset tokenization and provide verifiable solutions for Web3 crypto-asset security tokens.
 
 This document specifies the “RealMatter” [DID Method](https://w3c.github.io/did-spec-registries/#did-methods) [**did:rm**].
 
 RealMatter uses virtualassets.id as the official service website.
 
-**Connecting real assets to virtual identities by**
+**Identity and Credential in Web3 for**
 
 Chip-level Blockchain
 
+Smart Contract-on-chip
+
 Real-world Asset Tokenization
 
-Smart Legal Contracts
-
-Investor Exit Planning
-
-
-**Real-world Asset Tokenization**
-
-Investor exit planning is the most important part of Real-world Asset Tokenization
-
-asset tokenization is # NOT nft
-
-asset tokenization is # NOT opensea
-
-asset tokenization is # investment
-
-asset tokenization is # an exit plan
+Web3 Crypto Asset Tokens
 
 
 **RealMatter Platform**
